@@ -36,7 +36,7 @@ if ( !isset($_SESSION["login"])){
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Riss</title>
     <link rel="icon" href="img/blackbullspng.png">
-    <link rel="stylesheet" href="bootstrap-4.5.3-dist/css/bootstrap.css">
+    <link rel="stylesheet" href="bootstrap-4.5.3-dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="style.css">
 </head>
 <body class="text-center">
